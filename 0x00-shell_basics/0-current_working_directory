@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+echo ${BASH_SOURCE:-$0}
